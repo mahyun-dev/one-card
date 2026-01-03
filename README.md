@@ -1,6 +1,7 @@
 # 🃏 UNO Connect
 
-실시간 멀티플레이 원카드 게임 - 6자리 초대 코드로 친구와 함께 플레이하세요!
+실시간 멀티플레이 원카드 게임
+[여기를 클릭해서 플레이](https://mahyun-dev.github.io/one-card/)
 
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-10.7-FFCA28?style=flat-square&logo=firebase)
